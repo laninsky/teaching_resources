@@ -1,8 +1,8 @@
 ## What whale is that?
-[Why do we need to identify whale samples with DNA?](https://github.com/laninsky/teaching_resources/blob/gh-pages/whale_id/index.md#why-do-we-need-to-identify-whale-samples-with-DNA)
-[How do DNA differences between species arise?](https://github.com/laninsky/teaching_resources/blob/gh-pages/whale_id/index.md#how-do-dna-differences-between-species-arise)
-[Things this exercise should teach](https://github.com/laninsky/teaching_resources/blob/gh-pages/whale_id/index.md#things-this-exercise-should-teach)
-[I don't want to read all of this - let me go straight to the exercise!](https://github.com/laninsky/teaching_resources/blob/gh-pages/whale_id/index.md#identifying-whale-meat-with-dna)
+[Why do we need to identify whale samples with DNA?](https://github.com/laninsky/teaching_resources/blob/gh-pages/whale_id/index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
+[How do DNA differences between species arise?](https://github.com/laninsky/teaching_resources/blob/gh-pages/whale_id/index.md#how-do-dna-differences-between-species-arise)  
+[Things this exercise should teach](https://github.com/laninsky/teaching_resources/blob/gh-pages/whale_id/index.md#things-this-exercise-should-teach)  
+[I don't want to read all of this - let me go straight to the exercise!](https://github.com/laninsky/teaching_resources/blob/gh-pages/whale_id/index.md#identifying-whale-meat-with-dna)  
 
 ### Why do we need to identify whale samples with DNA?
 
