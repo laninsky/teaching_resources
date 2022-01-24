@@ -1,3 +1,3 @@
-## Welcome to Alana's teaching resources
+## Current resources
 
 [Identifying whale meat with DNA](whale_id/index.md)
