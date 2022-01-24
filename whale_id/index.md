@@ -12,10 +12,12 @@ Whales are super diverse and (mostly - with the exception of some dolphin and be
 So why would we need to identify species with DNA?
 Whale meat
 
-[*back to the top*]
+[*back to the top*](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
 
 ### How do DNA differences between species arise?
 Mutation, genetic drift etc
+
+[*back to the top*](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
 
 ### Why do we use mitochondrial DNA?
 What is mtDNA?
@@ -25,14 +27,22 @@ Maternally-inherited only
 
 We use a specific locus - the control region - because it doesn't appear to be under as strong selection as elsewhere on the mtDNA. This means the mutations that occur are mostly neutral, which means they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up distinguishing different species.
 
+[*back to the top*](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
+
 ### Things this exercise should teach
 This exercise touches on aspects of NCEA Level 2 and 3 Biology, including *2.5 Genetic variation and change (AS 91157)* (particularly 'sources of genetic variation' and 'genetic change') and *3.5 Demonstrate understanding of evolutionary processes leading to speciation* (particularly 'mechanisms of evolution', 'the origin of species', and 'patterns of evolution')
+
+[*back to the top*](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
 
 ### Identifying whale meat with DNA
 #### Using BLAST
 #### Using 'Witness for the Whales'
 
+[*back to the top*](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
+
 ### When doesn't this approach work?
 Fragment too short  
 Species can't be distinguished  
 New species/variation
+
+[*back to the top*](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
