@@ -1,8 +1,8 @@
 # What whale is that?
 [Why do we need to identify whale samples with DNA?](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
-[How do DNA differences between species arise?](index.md#how-do-dna-differences-between-species-arise) 
-[Why do we use mitochondrial DNA?](index.md#why-do-we-use-mitochondrial-DNA)
-[Things this exercise should teach](index.md#things-this-exercise-should-teach)  
+[How do DNA differences between species arise?](index.md#how-do-dna-differences-between-species-arise)  
+[Why do we use mitochondrial DNA?](index.md#why-do-we-use-mitochondrial-DNA)  
+[Things this exercise should teach](index.md#things-this-exercise-should-teach)    
 [I don't want to read all of this - let me go straight to the exercise!](index.md#identifying-whale-meat-with-dna)  
 [When doesn't this approach work?](index.md#when-doesnt-this-approach-work)  
 
