@@ -6,7 +6,6 @@
 [I don't want to read all of this - let me go straight to the exercise!](index.md#identifying-whale-meat-with-dna)  
 [When doesn't this approach work?](index.md#when-doesnt-this-approach-work)  
 
-
 ## Why do we need to identify whale samples with DNA?
 Whales are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart because natural selection and drift have acted to make some very different looking critters.
 So why would we need to identify species with DNA?
@@ -15,7 +14,7 @@ Whale meat
 [*back to the top*](index.md#what-whale-is-that)  
 
 ## How do DNA differences between species arise?
-Mutation, genetic drift etc
+Mutation (source of variation), genetic drift/natural selection (fox etc
 
 [*back to the top*](index.md#what-whale-is-that)  
 
