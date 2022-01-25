@@ -4,6 +4,7 @@
 [Things this exercise should teach](index.md#things-this-exercise-should-teach)    
 [I don't want to read all of this - let me go straight to the exercise!](index.md#identifying-whale-meat-with-dna)  
 [When doesn't using mtDNA work?](index.md#when-doesnt-using-mtdna-work)  
+[Acknowledgements](index.md#acknowledgements)  
 
 ## Why do we need to identify whale samples with DNA?
 Cetaceans (whales and dolphins) are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart based on morphology - their appearance - because natural selection and drift have acted to make some very different looking critters. Here's just a few of the ~90 cetacean species!
@@ -51,7 +52,9 @@ This exercise touches on aspects of NCEA Level 2 and 3 Biology, including *2.5 G
 
 [*back to the top*](index.md#what-whale-is-that)  
 
-## Identifying whale meat with DNA
+## Identifying whale meat with DNA  
+In response to the near-commercial extinction of many of the 'great whale' species, a moratorium on commercial whaling came into place in 1986. However, some countries continued to capture whales as 'bycatch' in fishing gear or through scientific whaling schemes. In addition, there have been occasional instances of illegal international trade of whale meat, where it has ended up in [high end restaurants!](https://www.wired.com/2010/04/whale-meat-bust/). 
+
 ### Using BLAST
 ### Using 'Witness for the Whales'
 
@@ -64,3 +67,7 @@ New species/variation
 
 [*back to the top*](index.md#what-whale-is-that)  
 
+## Acknowledgements
+This exercise was originally developed by [Prof. Scott Baker](https://mmi.oregonstate.edu/people/c-scott-baker). Since the time Alana was based in Scott's lab for her PhD research, she has gradually tweaked the materials, but the original whale meat samples and DNA sequences and the idea to use this as a classroom activity trace back to Scott. Ngā mihi e hoa!
+
+[*back to the top*](index.md#what-whale-is-that) 
