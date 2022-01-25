@@ -13,10 +13,6 @@ Whale meat
 
 [*back to the top*](index.md#what-whale-is-that)  
 
-## How do DNA differences between species arise?
-Mutation (source of variation), genetic drift/natural selection (fox etc
-
-[*back to the top*](index.md#what-whale-is-that)  
 
 ## Why do we use mitochondrial DNA?
 What is mtDNA?
@@ -24,7 +20,11 @@ Multi-copy
 Haploid
 Maternally-inherited only
 
-![image of zooming into a cell and ending up at nucleotides](/docs/assets/images/cells_nuclear_DNA.png)
+![with nuclear DNA you get one copy from your mum and one copy from your dad](/docs/assets/images/nuclear_DNA.png)
+
+![everyone has the same mitochondrial DNA as their mum](/docs/assets/images/mtDNA.png)
+
+![zooming into a cell and ending up at nucleotides](/docs/assets/images/cells_nuclear_DNA.png)
 
 ![Mitochondrial DNA is maternally inherited](/docs/assets/images/maternally_inherited.png)
 
@@ -32,7 +32,17 @@ Maternally-inherited only
 
 We use a specific locus - the control region - because it doesn't appear to be under as strong selection as elsewhere on the mtDNA. This means the mutations that occur are mostly neutral, which means they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up distinguishing different species.
 
+Higher mutation rate
+
 [*back to the top*](index.md#what-whale-is-that)  
+
+## How do DNA differences between species arise?
+Mutation (source of variation), genetic drift/natural selection (fox etc
+
+![mutation is the ultimate cause of genetic varaition](/docs/assets/images/mutations.png)
+
+[*back to the top*](index.md#what-whale-is-that)  
+
 
 ## Things this exercise should teach
 This exercise touches on aspects of NCEA Level 2 and 3 Biology, including *2.5 Genetic variation and change (AS 91157)* (particularly 'sources of genetic variation' and 'genetic change') and *3.5 Demonstrate understanding of evolutionary processes leading to speciation* (particularly 'mechanisms of evolution', 'the origin of species', and 'patterns of evolution')
