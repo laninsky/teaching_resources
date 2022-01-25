@@ -3,11 +3,11 @@
 - [Why do we use mitochondrial DNA?](index.md#why-do-we-use-mitochondrial-dna)
 - [Things this exercise should teach](index.md#things-this-exercise-should-teach)    
 - [I don't want to read all of this - let me go straight to the exercise!](index.md#identifying-whale-meat-with-dna)  
-- [What whales were they and when does this approach not work so well?](index.md#what-whales-were-they-and-when-does-this-approach-not-work-so-well)  
+- [What whales did you find and when does this approach not work so well?](index.md#what-whales-did-you-find-and-when-does-this-approach-not-work-so-well)  
 - [Acknowledgements](index.md#acknowledgements)  
 
 ## Why do we need to identify whale samples with DNA?
-Cetaceans (whales and dolphins) are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart based on morphology (a fancy word for "their appearance") because natural selection and drift have acted to make some very different looking critters. Here's just a few of the ~90 cetacean species!
+Cetaceans (whales and dolphins) are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart based on morphology (a fancy word for "how they look") because natural selection and drift (check out this [link](https://biologydictionary.net/genetic-drift-vs-gene-flow-vs-natural-selection/) for more about these processes) have acted to make some very different looking critters. Here's just a few of the ~90 cetacean species!
 <a title="LittleJerry, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Cetacea.jpg"><img width="512" alt="The Cetacea" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Cetacea.jpg/512px-The_Cetacea.jpg"></a>
 
 Given they look so different, why would we ever need to identify species with DNA?  
@@ -15,7 +15,10 @@ Given they look so different, why would we ever need to identify species with DN
 Well...how about these whales and dolphins? Can you tell them apart?  
 ![images of whale meat](whale_meat.png)
 
-Sometimes we can get samples that no longer look like the original dolphin or whale. This might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (strandings happen quite a bit in Aotearoa New Zealand!). Sometimes it might be because the animal has been cut up for food like in the whale meat example above. Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
+Sometimes we can get samples that no longer look like the original dolphin or whale. This might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (strandings happen quite a bit in Aotearoa New Zealand!).
+<p><a href="https://commons.wikimedia.org/wiki/File:Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg#/media/File:Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg/1200px-Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg" alt="Marine mammals stranded along the coasts of Brittany - ZooKeys-365-005-g004.jpg"></a><br>By Alfonsi et al. - Alfonsi Eric, Méheust Eleonore, Fuchs Sandra, Carpentier François-Gilles, Quillivic Yann, Viricel Amélia, Hassani Sami, Jung Jean-Luc (2013). "&lt;a rel="nofollow" class="external text" href="https://www.pensoft.net/journals/zookeys/article/5873/abstract/"&gt;The use of DNA barcoding to monitor the marine mammal biodiversity along the French Atlantic coast&lt;/a&gt;". ZooKeys 365: 5--24. Pensoft Publishers. &lt;a href="https://en.wikipedia.org/wiki/Digital_object_identifier" class="extiw" title="w:Digital object identifier"&gt;DOI&lt;/a&gt;:&lt;a rel="nofollow" class="external text" href="https://doi.org/10.3897/zookeys.365.5873"&gt;10.3897/zookeys.365.5873&lt;/a&gt;., <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=30435162">Link</a></p>
+
+Sometimes it might be because the animal has been cut up for food like in the whale meat example above. Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
 
 Often, we use a kind of DNA called mitochondrial DNA, often known as mtDNA for short. More on that in the next section!
 
@@ -97,7 +100,7 @@ We'll then hit the back button and select 'Mysticetes v4.3' as our database.
 
 [*back to the top*](index.md#what-whale-is-that)  
 
-## What whales were they and when does this approach not work so well?
+## What whales did you find and when does this approach not work so well?
 Have a peek [here](answer_key.md) to see what our samples were, and for a discussion of when it might not work out to use mtDNA to forensically identify species.
 
 [*back to the top*](index.md#what-whale-is-that) 
@@ -105,6 +108,6 @@ Have a peek [here](answer_key.md) to see what our samples were, and for a discus
 ## Acknowledgements
 This exercise was originally developed by [Prof. Scott Baker](https://mmi.oregonstate.edu/people/c-scott-baker). During and after Alana was based in Scott's lab for her PhD research, she has gradually tweaked the materials, but the images of the whale meat samples within the exercises and their DNA sequences are from Scott. Ngā mihi e hoa!  
 
-All images on this page developed by Alana, with the exception of the collage of cetacean species (LittleJerry, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_Cetacea.jpg)
+All images on this page developed by Alana, with the exception of the following from wikimedia: collage of cetacean species (LittleJerry, CC BY-SA 4.0, avai), the whale strandings image (Alfonsi et al, CC BY 4.0),
 
 [*back to the top*](index.md#what-whale-is-that) 
