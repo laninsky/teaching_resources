@@ -84,7 +84,7 @@ The samples we'll be identifying are [here](whale_meat_sample_sequences.md) (ope
 3. Click Cluster (Simple), and paste your sequence into the data entry window:
 ![demonstration of Witness for the Whales DNA surveillance window](cluster_simple_window.png)
 4. Select your database. You will start off with “All cetaceans Vs 4.3”. Make sure you are selecting “Ctrl”  because “control region” is the kind of the DNA we are looking at today. Scroll to the bottom and hit “submit”!
-5. Find out whether your sample is in the “MYSTICETE” or “ODONTOCETE” dataset by looking at [the key](DNA_surveillance_database_species.pdf). You will then follow  steps 2-4, but select either MYSTICETE or ODONTOCETE as your database (you should be able to hit "back" on your browser, and hopefully your sequence will still be there). For example, in the first search our user sample is nearby a fin whale, a humpback whale, and a blue whale in the tree:
+5. Find out whether your sample is in the “MYSTICETE” or “ODONTOCETE” dataset by looking at [the key](DNA_surveillance_database_species.pdf). You will then follow  steps 2-4, but select either MYSTICETE or ODONTOCETE as your database (you should be able to hit "back" on your browser, and hopefully your sequence will still be there so you don't have to copy and paste again). For example, in the first search our user sample is nearby a fin whale, a humpback whale, and a blue whale in the tree:
 ![arrow pointing to user sequence](broader_search.png)
 If we head to [the key](DNA_surveillance_database_species.pdf), we see that all of these species are within 'MYSTICETE':
 ![arrows pointing to mysticetes in key file](mysticetes.png)
