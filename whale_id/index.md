@@ -15,10 +15,10 @@ Whale meat
 
 
 ## Why do we use mitochondrial DNA?
-What is mtDNA?
-Multi-copy
-Haploid
-Maternally-inherited only
+What is mtDNA?  
+Multi-copy  
+Haploid  
+Maternally-inherited only  
 
 ![with nuclear DNA you get one copy from your mum and one copy from your dad](nuclear_DNA.png)
 
