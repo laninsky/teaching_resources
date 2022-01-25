@@ -84,6 +84,8 @@ Have a peek [here](answer-key.md)
 [*back to the top*](index.md#what-whale-is-that) 
 
 ## Acknowledgements
-This exercise was originally developed by [Prof. Scott Baker](https://mmi.oregonstate.edu/people/c-scott-baker). Since the time Alana was based in Scott's lab for her PhD research, she has gradually tweaked the materials, but the original whale meat samples and DNA sequences and the idea to use this as a classroom activity trace back to Scott. Ngā mihi e hoa!
+This exercise was originally developed by [Prof. Scott Baker](https://mmi.oregonstate.edu/people/c-scott-baker). While Alana was based in Scott's lab for her PhD research, she has gradually tweaked the materials, but the images of the whale meat samples within the exercises and their DNA sequences are from Scott. Ngā mihi e hoa!  
+
+All images on this page developed by Alana, with the exception of the collage of cetacean species (LittleJerry, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_Cetacea.jpg)
 
 [*back to the top*](index.md#what-whale-is-that) 
