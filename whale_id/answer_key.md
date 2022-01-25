@@ -1,6 +1,6 @@
 |  **Sample ID**  |         **Species ID from BLAST**                 | **Species ID from Witness for the Whales** | **Additional notes** |  
-|  J08-021B       | *Balaenoptera physalus* (fin whale)               |  placeholder                               |    placeholder       |  
-|   J01-007       | *Balaenoptera bonaerensis* (Antarctic minke)      |  placeholder                               |    placeholder       |  
-|   J01-008       | *Berardius bairdii* (Baird's beaked whale)        |  placeholder                               |    placeholder       |  
-|   J09-011       | *Balaenoptera acutorostrata* (common minke whale) |  placeholder                               |    placeholder       |  
-|   J09-029       | *Megaptera novaeangliae* (humpback whale)         |  placeholder                               |    placeholder       |  
+|  J08-021B       | *Balaenoptera physalus* (fin whale)               |  Same as BLAST                             |                      |  
+|   J01-007       | *Balaenoptera bonaerensis* (Antarctic minke)      |  Same as BLAST                             |                      |  
+|   J01-008       | *Berardius bairdii* (Baird's beaked whale)        |  Similar to Baird's beaked whale, but 'outside' of the rest of the samples                              |    Although this sample looks similar to a Baird's beaked whale, it seems to represent diversity not present in the Witness for the Whales database       |  
+|   J09-011       | *Balaenoptera acutorostrata* (common minke whale) |  Specifically, a North Pacific minke                               |    Witness for the Whales gave us a more "fine-scale" answer than BLAST because of the use of a curated database       |  
+|   J09-029       | *Megaptera novaeangliae* (humpback whale)         |  Humpback whale, but 'outside' of the rest of the samples                          |    Although this sample looks similar to a humpback, it seems to represent diversity not present in the Witness for the Whales database        |  
