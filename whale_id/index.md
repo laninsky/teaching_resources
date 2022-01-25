@@ -14,13 +14,16 @@ Given they look so different, why would we ever need to identify species with DN
 
 Well...how about these whales and dolphins? Can you tell them apart?  
 ![images of whale meat](whale_meat.png)
-&nbsp;
+&nbsp;  
+
 Sometimes we can get samples that no longer look like the original dolphin or whale. Sometimes it might be because the animal has been cut up for food like in the whale meat example above. Sometimes this might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (strandings happen quite a bit in Aotearoa New Zealand!).
 <p><a href="https://commons.wikimedia.org/wiki/File:Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg#/media/File:Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg/1200px-Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg" alt="Marine mammals stranded along the coasts of Brittany - ZooKeys-365-005-g004.jpg"></a>
-&nbsp;
+&nbsp;  
+  
 Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
 <p><a href="https://commons.wikimedia.org/wiki/File:Barbas_de_ballena.jpg#/media/File:Barbas_de_ballena.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Barbas_de_ballena.jpg/1200px-Barbas_de_ballena.jpg" alt="Barbas de ballena.jpg"></a>
-&nbsp;
+&nbsp;  
+  
 Often, we use a kind of DNA called mitochondrial DNA, often known as mtDNA for short. More on that in the next section!
 
 [*back to the top*](index.md#what-whale-is-that)  
