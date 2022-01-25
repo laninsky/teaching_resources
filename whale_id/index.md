@@ -15,10 +15,11 @@ Given they look so different, why would we ever need to identify species with DN
 Well...how about these whales and dolphins? Can you tell them apart?  
 ![images of whale meat](whale_meat.png)
 
-Sometimes we can get samples that no longer look like the original dolphin or whale. This might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (strandings happen quite a bit in Aotearoa New Zealand!).
+Sometimes we can get samples that no longer look like the original dolphin or whale. Sometimes it might be because the animal has been cut up for food like in the whale meat example above. Sometimes this might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (strandings happen quite a bit in Aotearoa New Zealand!).
 <p><a href="https://commons.wikimedia.org/wiki/File:Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg#/media/File:Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg/1200px-Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg" alt="Marine mammals stranded along the coasts of Brittany - ZooKeys-365-005-g004.jpg"></a><br>By Alfonsi et al. - Alfonsi Eric, Méheust Eleonore, Fuchs Sandra, Carpentier François-Gilles, Quillivic Yann, Viricel Amélia, Hassani Sami, Jung Jean-Luc (2013). "&lt;a rel="nofollow" class="external text" href="https://www.pensoft.net/journals/zookeys/article/5873/abstract/"&gt;The use of DNA barcoding to monitor the marine mammal biodiversity along the French Atlantic coast&lt;/a&gt;". ZooKeys 365: 5--24. Pensoft Publishers. &lt;a href="https://en.wikipedia.org/wiki/Digital_object_identifier" class="extiw" title="w:Digital object identifier"&gt;DOI&lt;/a&gt;:&lt;a rel="nofollow" class="external text" href="https://doi.org/10.3897/zookeys.365.5873"&gt;10.3897/zookeys.365.5873&lt;/a&gt;., <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=30435162">Link</a></p>
 
-Sometimes it might be because the animal has been cut up for food like in the whale meat example above. Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
+Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
+<p><a href="https://commons.wikimedia.org/wiki/File:Barbas_de_ballena.jpg#/media/File:Barbas_de_ballena.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Barbas_de_ballena.jpg/1200px-Barbas_de_ballena.jpg" alt="Barbas de ballena.jpg"></a><br>By &lt;a href="//commons.wikimedia.org/wiki/User:LBM1948" title="User:LBM1948"&gt;LBM1948&lt;/a&gt; - &lt;span class="int-own-work" lang="en"&gt;Own work&lt;/span&gt;, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=65459269">Link</a></p>
 
 Often, we use a kind of DNA called mitochondrial DNA, often known as mtDNA for short. More on that in the next section!
 
@@ -34,13 +35,13 @@ This kind of DNA is biparental - you get one copy from your mum, and one copy fr
 However, there are other kinds of DNA and one that is particularly handy for forensic identification of species is mitochondrial DNA or mtDNA. Unlike nuclear DNA, mitochondrial DNA is only inherited from your mum, which means almost everyone has the same kind of mtDNA as their biological mum. This "single-copy" kind of DNA is known as haploid.
 ![everyone has the same mitochondrial DNA as their mum](mtDNA.png)
 
-The mtDNA hangs out inside mitochondria, the powerhouse of the cell. Some genes in the mitochondrial DNA encode for proteins. However, for our analyses we mostly use a specific locus - the control region - because it doesn't appear to be under as strong selection as the parts of the mtDNA that code for proteins.  
+The mtDNA hangs out inside mitochondria, the powerhouse of the cell. Some genes in the mitochondrial DNA encode for proteins that help the cell respire (make energy). However, for our analyses we mostly use a specific locus - the control region - because it doesn't appear to be under as strong selection as the parts of the mtDNA that code for proteins (the nucleotide sequence of the control region can change without it impacting how well the mitochondria works).  
 ![Mitochondrial DNA is maternally inherited](maternally_inherited.png)
 
 Why is this important? Well, we know that the ultimate origin of all genetic variation is mutation. One of the reasons we particularly like to work with mtDNA is that it has a higher mutation rate, which means it accumulates variation more quickly than nuclear DNA.
 ![mutation is the ultimate cause of genetic variation](mutations.png)
 
-But the control region is extra special. Because mutations in this locus are mostly neutral, they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up that can distinguish different maternal lineages (kind of like a maternally-inherited surname). When we define certain stretches of DNA based on the mutations they hold, this is called 'haplotyping'.
+But the control region is extra special. Because mutations in this locus are mostly neutral, they don't get removed from the population because of purifying/negative selection (in comparison, changes in the protein-coding regions are likely to mean the mitochondria don't work as well, so the animal with those mutations is less likely to be successful at breeding, and those mutations are therefore likely to be lost to selection). Over time, this means that a bunch of mutations can build up that can distinguish different maternal lineages (kind of like a maternally-inherited surname). When we define certain stretches of DNA based on the mutations they hold, this is called 'haplotyping'.
 ![The process of haplotyping mitochondrial DNA involves looking for differences when comparing the letters](haplotyping_mtDNA.png)
 
 Over time, processes like natural selection, bottlenecks and genetic drift mean we can even use mtDNA to distinguish different species!
@@ -62,7 +63,7 @@ Because of the lack of oversight over which species were being sold in whale mea
 
 In this exercise, we'll pick up just after the samples have been amplified and sequenced to figure out **What whale is that?** based on the stretches of A, C, G and Ts that make up the control region of the mtDNA of these samples. We'll be using two methods:  
 1. [BLAST](index.md#using-blast), which relies on comparing the similarity between our sequences and whale and dolphin sequences in a database; and 
-2. [Witness for the whales](index.md#using-witness-for-the-whales), a phylogenetic (tree-based) method that uses expertly-curated sequences.
+2. [Witness for the whales](index.md#using-witness-for-the-whales), a phylogenetic (tree-based) method that uses sequences confirmed by experts to be from specific species.
 
 The samples we'll be identifying are [here](whale_meat_sample_sequences.md) (open it in a new tab so you can flick back and forth with the instructions), and the instructions for how to use the two methods are below. Keep a pen and paper handy, or a file open on your device, so you can write down your species IDs!
 
@@ -106,8 +107,8 @@ Have a peek [here](answer_key.md) to see what our samples were, and for a discus
 [*back to the top*](index.md#what-whale-is-that) 
 
 ## Acknowledgements
-This exercise was originally developed by [Prof. Scott Baker](https://mmi.oregonstate.edu/people/c-scott-baker). During and after Alana was based in Scott's lab for her PhD research, she has gradually tweaked the materials, but the images of the whale meat samples within the exercises and their DNA sequences are from Scott. Ngā mihi e hoa!  
+This exercise was originally developed by [Prof. Scott Baker](https://mmi.oregonstate.edu/people/c-scott-baker). During, and after, Alana was based in Scott's lab for her PhD research, she has gradually tweaked the materials, but the images of the whale meat samples within the exercises and their DNA sequences are from Scott. Ngā mihi e hoa!  
 
-All images on this page developed by Alana, with the exception of the following from wikimedia: collage of cetacean species (LittleJerry, CC BY-SA 4.0, avai), the whale strandings image (Alfonsi et al, CC BY 4.0),
+All images on this page developed by Alana, with the exception of the following from wikimedia: collage of cetacean species (LittleJerry, CC BY-SA 4.0), the whale strandings image (Alfonsi et al, CC BY 4.0), whale bone (LBM1948, CC BY-SA 4.0).
 
 [*back to the top*](index.md#what-whale-is-that) 
