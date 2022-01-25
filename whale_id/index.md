@@ -14,14 +14,14 @@ So given they look so different, why would we need to identify species with DNA?
 Well...how about these whales and dolphins? Can you tell them apart?  
 ![images of whale meat](whale_meat.png)
 
-Sometimes we can get samples that no longer look like the original dolphin or whale. Thia might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (this happens quite a bit in Aotearoa New Zealand!). Sometimes it might be because the animal has been cut up for food like in the whale meat example above. Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
+Sometimes we can get samples that no longer look like the original dolphin or whale. This might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (this happens quite a bit in Aotearoa New Zealand!). Sometimes it might be because the animal has been cut up for food like in the whale meat example above. Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
 
 Often, we use a kind of DNA called mitochondrial DNA, often known as mtDNA for short. More on that in the next section!
 
 [*back to the top*](index.md#what-whale-is-that)  
 
 ## Why do we use mitochondrial DNA?
-Most of the time when we think about "DNA", people think of nuclear DNA, which is found in the nucleus in our chromosomes.  
+Most of the time when we think about "DNA", we think of nuclear DNA, which is found in the nucleus in our chromosomes.  
 ![zooming into a cell and ending up at nucleotides](cells_nuclear_DNA.png)
 
 This kind of DNA is biparental - you get one copy from your mum, and one copy from your dad. This "double-copy" kind of DNA is known as diploid DNA.  
@@ -36,7 +36,7 @@ The mtDNA hangs out inside mitochondria, the powerhouse of the cell. Some genes 
 Why is this important? Well, we know that the ultimate origin of all genetic variation is mutation. One of the reasons we particularly like to work with mtDNA is that it has a higher mutation rate, which means it accumulates variation more quickly than nuclear DNA.
 ![mutation is the ultimate cause of genetic variation](mutations.png)
 
-But the control region is extra special. Because mutations in this locus are mostly neutral, they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up that can distinguish different maternal lineages (kind of like maternally-inherited surname). When we define certain stretches of DNA based on the mutations they hold, this is called 'haplotyping'.
+But the control region is extra special. Because mutations in this locus are mostly neutral, they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up that can distinguish different maternal lineages (kind of like a maternally-inherited surname). When we define certain stretches of DNA based on the mutations they hold, this is called 'haplotyping'.
 ![The proces of haplotyping mitochondrial DNA involves looking for differences when comparing the letters](haplotyping_mtDNA.png)
 
 Over time, processes like natural selection,bottlenecks and genetic drift mean we can even use the mtDNA to distinguish different species!
