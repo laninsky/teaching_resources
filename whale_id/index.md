@@ -88,7 +88,7 @@ New species/variation
 [*back to the top*](index.md#what-whale-is-that)  
 
 ## What whales were they?
-Have a peek [here](answer-key.md)
+Have a peek [here](answer_key.md)
 
 [*back to the top*](index.md#what-whale-is-that) 
 
