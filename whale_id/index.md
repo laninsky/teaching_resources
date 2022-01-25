@@ -1,10 +1,9 @@
 # What whale is that?
 [Why do we need to identify whale samples with DNA?](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
-[How do DNA differences between species arise?](index.md#how-do-dna-differences-between-species-arise)  
 [Why do we use mitochondrial DNA?](index.md#why-do-we-use-mitochondrial-DNA)  
 [Things this exercise should teach](index.md#things-this-exercise-should-teach)    
 [I don't want to read all of this - let me go straight to the exercise!](index.md#identifying-whale-meat-with-dna)  
-[When doesn't this approach work?](index.md#when-doesnt-this-approach-work)  
+[When doesn't using mtDNA work?](index.md#when-doesnt-using-mtdna-work)  
 
 ## Why do we need to identify whale samples with DNA?
 Cetaceans (whales and dolphins) are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart based on morphology - their appearance - because natural selection and drift have acted to make some very different looking critters. Here's just a few of the ~90 cetacean species!
@@ -22,22 +21,37 @@ Often, we use a kind of DNA called mitochondrial DNA, often known as mtDNA for s
 [*back to the top*](index.md#what-whale-is-that)  
 
 ## Why do we use mitochondrial DNA?
+Most of the time when we think about "DNA", people think of nuclear DNA, which is found in the nucleus in our chromosomes.  
+![zooming into a cell and ending up at nucleotides](cells_nuclear_DNA.png)
+
+This kind of DNA is biparental - you get one copy from your mum, and one copy from your dad. This "double-copy" kind of DNA is known as diploid DNA.  
+![with nuclear DNA you get one copy from your mum and one copy from your dad](nuclear_DNA.png)
+
+However, there are other kinds of DNA and one that is particularly handy for forensic identification of species is mitochondrial DNA or mtDNA. Unlike nuclear DNA, mitochondrial DNA is only inherited from your mum, which means almost everyone has the same kind of mtDNA as their biological mum. This "single-copy" kind of DNA is known as haploid.
+![everyone has the same mitochondrial DNA as their mum](mtDNA.png)
+
+The mtDNA hangs out inside mitochondria, the powerhouse of the cell. Some genes in the mitochondrial DNA encode for proteins. However, for our analyses we mostly use a specific locus - the control region - because it doesn't appear to be under as strong selection as the parts of the mtDNA that code for proteins.  
+![Mitochondrial DNA is maternally inherited](maternally_inherited.png)
+
+
+
+This means mutations 
+
+that occur are mostly neutral, which means they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up distinguishing different species.
+
+
 What is mtDNA?  
 Multi-copy  
 Haploid  
 Maternally-inherited only  
 
-![with nuclear DNA you get one copy from your mum and one copy from your dad](nuclear_DNA.png)
 
-![everyone has the same mitochondrial DNA as their mum](mtDNA.png)
 
-![zooming into a cell and ending up at nucleotides](cells_nuclear_DNA.png)
 
-![Mitochondrial DNA is maternally inherited](maternally_inherited.png)
 
 ![The proces of haplotyping mitochondrial DNA involves looking for differences when comparing the letters](haplotyping_mtDNA.png)
 
-We use a specific locus - the control region - because it doesn't appear to be under as strong selection as elsewhere on the mtDNA. This means the mutations that occur are mostly neutral, which means they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up distinguishing different species.
+
 
 Higher mutation rate
 
@@ -62,7 +76,7 @@ This exercise touches on aspects of NCEA Level 2 and 3 Biology, including *2.5 G
 
 [*back to the top*](index.md#what-whale-is-that)  
 
-## When doesn't this approach work?
+## When doesn't using mtDNA work?
 Fragment too short  
 Species can't be distinguished  
 New species/variation
