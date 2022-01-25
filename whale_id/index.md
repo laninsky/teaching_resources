@@ -63,6 +63,8 @@ In this exercise, we'll pick up just after the samples have been amplified and s
 
 The samples we'll be identifying are [here](whale_meat_sample_sequences.md) (open it in a new tab so you can flick back and forth with the instructions), and the instructions for how to figure out what species they are with the two methods are below. Keep a pen and paper handy, or a file open on your device, so you can write down your species IDs!
 
+[*back to the top*](index.md#what-whale-is-that)  
+
 ### Using BLAST
 1. Head to the website https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome (copy and paste the link so you don't have to type it out manually!)
 2. Copy the first sequence from our [whale meat samples](whale_meat_sample_sequences.md)
