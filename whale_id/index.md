@@ -33,11 +33,13 @@ However, there are other kinds of DNA and one that is particularly handy for for
 The mtDNA hangs out inside mitochondria, the powerhouse of the cell. Some genes in the mitochondrial DNA encode for proteins. However, for our analyses we mostly use a specific locus - the control region - because it doesn't appear to be under as strong selection as the parts of the mtDNA that code for proteins.  
 ![Mitochondrial DNA is maternally inherited](maternally_inherited.png)
 
-
+Because these mutations are mostly neutral, they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up that can distinguish different maternal lineages (kind of like maternally-inherited surname).
+![mutation is the ultimate cause of genetic varaition](mutations.png)
 
 This means mutations 
 
-that occur are mostly neutral, which means they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up distinguishing different species.
+
+distinguishing different species.
 
 
 What is mtDNA?  
@@ -59,8 +61,6 @@ Higher mutation rate
 
 ## How do DNA differences between species arise?
 Mutation (source of variation), genetic drift/natural selection (fox etc
-
-![mutation is the ultimate cause of genetic varaition](mutations.png)
 
 [*back to the top*](index.md#what-whale-is-that)  
 
