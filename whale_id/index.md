@@ -61,7 +61,7 @@ In this exercise, we'll pick up just after the samples have been amplified and s
 1. [BLAST](index.md#using-blast), which relies on comparing the similarity between our sequences and whale and dolphin sequences in a database; and 
 2. [Witness for the whales](index.md#using-witness-for-the-whales), a phylogenetic (tree-based) method that uses expertly-curated sequences.
 
-The samples we'll be identifying are [here](whale_meat_sample_sequences.md) (open it in a new tab so you can flick back and forth with the instructions), and the instructions for how to figure out what species they are from using the two methods are below. Keep a pen and paper handy, or a file open on your device, so you can write down your species IDs!
+The samples we'll be identifying are [here](whale_meat_sample_sequences.md) (open it in a new tab so you can flick back and forth with the instructions), and the instructions for how to figure out what species they are with the two methods are below. Keep a pen and paper handy, or a file open on your device, so you can write down your species IDs!
 
 ### Using BLAST
 1. Head to the website https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome (copy and paste the link so you don't have to type it out manually!)
@@ -77,6 +77,21 @@ The samples we'll be identifying are [here](whale_meat_sample_sequences.md) (ope
 [*back to the top*](index.md#what-whale-is-that)  
 
 ### Using 'Witness for the Whales'
+1. Head to the website http://www.dna-surveillance.auckland.ac.nz/page/whales/title (copy and paste the link so you don't have to type it out manually!)
+2. Copy the first sequence from our [whale meat samples](whale_meat_sample_sequences.md)
+3. Click Cluster (Simple), and paste your sequence into the data entry window:
+![demonstration of Witness for the Whales DNA surveillance window](cluster_simple_window.png)
+4. Select your database. You will start off with “All cetaceans Vs 4.3”. Make sure you are selecting “Ctrl”  because “control region” is the kind of the DNA we are looking at today. Scroll to the bottom and hit “submit”!
+5. Find out whether your sample is in the “MYSTICETE” or “ODONTOCETE” dataset by looking at [the key](DNA_surveillance_database_species.pdf). You will then follow  steps 2-4, but select either MYSTICETE or ODONTOCETE as your database (you should be able to hit "back" on your browser, and hopefully your sequence will still be there). For example, in the first search our user sample is nearby a fin whale, a humpback whale, and a blue whale in the tree:
+![arrow pointing to user sequence](broader_search.png)
+If we head to [the key](DNA_surveillance_database_species.pdf), we see that all of these species are within 'MYSTICETE':
+![arrows pointing to mysticetes in key file](mysticetes.png)
+We'll then hit the back button and select 'Mysticetes v4.3' as our database.
+
+**Why** do we have to do such a complicated dance? The “higher level” databases e.g. “All cetaceans” we don’t always have all the species (because the program would run too slow) so that’s why we zoom into Mysticete and Odontocete databases – and sometimes even further!!!
+6. On the next run-through, we find that our sample appears to be a fin whale. To find the closest relative in a phylogenetic tree, follow the line back from yoru sample of interest until you hit a perpendicular line. That perpendicular line will attach to the closest relative of your sample/species.
+![phylogenetic tree focussed on fin whales](final_fin_whale.png)
+7. Nice work, you've identified your sample using a phylogenetic method. Although this might seem a bit more complicated, hopefully by the end of the exercise you might see why this can be a handy approach.
 
 [*back to the top*](index.md#what-whale-is-that)  
 
