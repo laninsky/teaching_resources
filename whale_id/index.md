@@ -55,7 +55,7 @@ This exercise touches on aspects of NCEA Level 2 and 3 Biology, including *2.5 G
 ## Identifying whale meat with DNA  
 In response to the near-commercial extinction of many of the 'great whale' species, a moratorium on commercial whaling came into place in 1986. However, some countries continued to capture whales as 'bycatch' in fishing gear or through scientific whaling schemes. In addition, there have been occasional instances of illegal international trade of whale meat, where it has even ended up in [high end restaurants!](https://www.wired.com/2010/04/whale-meat-bust/)  
 
-Because of the lack of oversight over which species were being sold in whale meat markets, some plucky scientists including [Prof. Scott Baker](https://archive.progress.oregonstate.edu/fall-2007/whale-tracker) from Oregon State University, packed up a PCR machine in their suitcases and headed to the markets, where they amplified the control region of the mtDNA from multiple whale meat products in their hotel rooms! Following sequencing, the species that the whale meat samples were from could be identified.  
+Because of the lack of oversight over which species were being sold in whale meat markets, some plucky scientists including Prof. Scott Baker from Oregon State University, packed up a PCR machine in their suitcases and headed to the markets, where they amplified the control region of the mtDNA from multiple whale meat products in their hotel rooms! Following sequencing, the species that the whale meat samples were from could be identified. There is more info [here](https://mmi.oregonstate.edu/ccgl/research-projects/monitoring-whaling-trade-endangered-species) if you are interested! 
 
 In this exercise, we'll pick up just after the samples have been amplified and sequenced to figure out **What whale is that?** based on the stretches of A, C, G and Ts that make up the control region of the mtDNA of these samples. We'll be using two methods:  
 1. [BLAST](index.md#using-blast), which relies on comparing the similarity between our sequences and whale and dolphin sequences in a database; and 
@@ -74,7 +74,7 @@ The samples we'll be identifying are [here](whale_meat_sample_sequences.md), and
 ## When doesn't using mtDNA work?
 Fragment too short  
 Species can't be distinguished  
-New species/variation
+New species/variation  
 
 [*back to the top*](index.md#what-whale-is-that)  
 
