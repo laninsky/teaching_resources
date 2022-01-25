@@ -90,7 +90,7 @@ If we head to [the key](DNA_surveillance_database_species.pdf), we see that all 
 ![arrows pointing to mysticetes in key file](mysticetes.png)
 We'll then hit the back button and select 'Mysticetes v4.3' as our database.
 
-**Why do we have to do such a complicated dance compared with BLAST?** The “higher level” databases e.g. “All cetaceans” we don’t always have all the species (because the program would run too slow) so that’s why we zoom into Mysticete and Odontocete databases – and sometimes even further!!!  
+**Why do we have to do such a complicated dance compared with BLAST?** The “higher level” databases e.g. “All cetaceans” don’t always have all the species (because the program would run too slow) so that’s why we zoom into Mysticete and Odontocete databases – and sometimes zoom in even further!!!  
 6. On the next run-through, we find that our sample appears to be a fin whale. To find the closest relative in a phylogenetic tree, follow the line back from yoru sample of interest until you hit a perpendicular line. That perpendicular line will attach to the closest relative of your sample/species.
 ![phylogenetic tree focussed on fin whales](final_fin_whale.png)
 7. Nice work, you've identified your sample using a phylogenetic method. Although this might seem a bit more complicated, hopefully by the end of the exercise you might see why this can be a handy approach.
