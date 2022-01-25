@@ -40,7 +40,7 @@ Why is this important? Well, we know that the ultimate origin of all genetic var
 But the control region is extra special. Because mutations in this locus are mostly neutral, they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up that can distinguish different maternal lineages (kind of like a maternally-inherited surname). When we define certain stretches of DNA based on the mutations they hold, this is called 'haplotyping'.
 ![The proces of haplotyping mitochondrial DNA involves looking for differences when comparing the letters](haplotyping_mtDNA.png)
 
-Over time, processes like natural selection,bottlenecks and genetic drift mean we can even use mtDNA to distinguish different species!
+Over time, processes like natural selection, bottlenecks and genetic drift mean we can even use mtDNA to distinguish different species!
 
 
 Not only can the mtDNA distinguish different species, but it is also present in multiple copies per cell (because your cells have lots of mitochondria to power them, and each mitochondria has copies of mtDNA). Because there are lots of copies, it means that we are more likely to be able to successfully extract mtDNA and amplify the control region using PCR, even from samples that are degraded... like animals that have been decomposing on the beach for a while, or whale meat that has been canned, or a bleached bone that has been sitting at a whaling station for centuries.
