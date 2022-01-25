@@ -8,6 +8,9 @@
 
 ## Why do we need to identify whale samples with DNA?
 Whales are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart because natural selection and drift have acted to make some very different looking critters.
+
+<a title="LittleJerry, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Cetacea.jpg"><img width="512" alt="The Cetacea" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Cetacea.jpg/512px-The_Cetacea.jpg"></a>
+
 So why would we need to identify species with DNA?
 Whale meat
 
