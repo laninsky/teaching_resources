@@ -59,7 +59,9 @@ Because of the lack of oversight over which species were being sold in whale mea
 
 In this exercise, we'll pick up just after the samples have been amplified and sequenced to figure out **What whale is that?** based on the stretches of A, C, G and Ts that make up the control region of the mtDNA of these samples. We'll be using two methods:  
 1. [BLAST](index.md#using-blast), which relies on comparing the similarity between our sequences and whale and dolphin sequences in a database; and 
-2. [Witness for the whales](index.md#using-witness-for-the-whales), a phylogenetic (tree-based) method that uses expertly-curated sequences
+2. [Witness for the whales](index.md#using-witness-for-the-whales), a phylogenetic (tree-based) method that uses expertly-curated sequences.
+
+The samples we'll be identifying are [here](whale_meat_sample_sequences.md), and the instructions for how to figure out what species they are from using the two methods are below. If you get completely done with these initial exercises, there are some additional sequences [here](additional_samples.md). Keep a pen and paper handy, or a file open on your device, so you can write down your species IDs!
 
 ### Using BLAST
 ### Using 'Witness for the Whales'
@@ -72,6 +74,11 @@ Species can't be distinguished
 New species/variation
 
 [*back to the top*](index.md#what-whale-is-that)  
+
+## What whales were they?
+Have a peek [here](answer-key.md)
+
+[*back to the top*](index.md#what-whale-is-that) 
 
 ## Acknowledgements
 This exercise was originally developed by [Prof. Scott Baker](https://mmi.oregonstate.edu/people/c-scott-baker). Since the time Alana was based in Scott's lab for her PhD research, she has gradually tweaked the materials, but the original whale meat samples and DNA sequences and the idea to use this as a classroom activity trace back to Scott. Ngā mihi e hoa!
