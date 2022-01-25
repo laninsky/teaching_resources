@@ -63,17 +63,6 @@ In this exercise, we'll pick up just after the samples have been amplified and s
 
 The samples we'll be identifying are [here](whale_meat_sample_sequences.md), and the instructions for how to figure out what species they are from using the two methods are below. If you get completely done with these initial exercises, there are some additional sequences [here](additional_samples.md). Keep a pen and paper handy, or a file open on your device, so you can write down your species IDs!
 
-
-<div class='cool-container'>
-    <p class='cool-description'>Get ready for...</p>
-    <ul class='cool-list'>
-        <li class='cool-item'>rainbows</li>
-        <li class='cool-item'>and</li>
-        <li class='cool-item'>unicorns</li>
-    </ul>
-</div>
-
-
 ### Using BLAST
 
 [*back to the top*](index.md#what-whale-is-that)  
