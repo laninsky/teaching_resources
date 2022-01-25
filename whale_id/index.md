@@ -17,7 +17,7 @@ Well...how about these whales and dolphins? Can you tell them apart?
   
 
 Sometimes we can get samples that no longer look like the original dolphin or whale. Sometimes it might be because the animal has been cut up for food like in the whale meat example above. Sometimes this might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (strandings happen quite a bit in Aotearoa New Zealand!).
-<p><a href="https://commons.wikimedia.org/wiki/File:Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg#/media/File:Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg/1200px-Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg" alt="Marine mammals stranded along the coasts of Brittany - ZooKeys-365-005-g004.jpg"></a>
+<a href="https://commons.wikimedia.org/wiki/File:Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg#/media/File:Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg/1200px-Marine_mammals_stranded_along_the_coasts_of_Brittany_-_ZooKeys-365-005-g004.jpg" alt="Marine mammals stranded along the coasts of Brittany - ZooKeys-365-005-g004.jpg"></a>
    
   
 Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
