@@ -48,12 +48,12 @@ Not only can the mtDNA distinguish different species, but it is also present in 
 [*back to the top*](index.md#what-whale-is-that)  
 
 ## Things this exercise should teach
-This exercise touches on aspects of NCEA Level 2 and 3 Biology, including *2.5 Genetic variation and change (AS 91157)* (particularly 'sources of genetic variation' and 'genetic change') and *3.5 Demonstrate understanding of evolutionary processes leading to speciation* (particularly 'mechanisms of evolution', 'the origin of species', and 'patterns of evolution')
+This exercise touches on aspects of NCEA Level 2 and 3 Biology, including *2.5 Genetic variation and change (AS 91157)* (particularly 'sources of genetic variation' and 'genetic change') and *3.5 Demonstrate understanding of evolutionary processes leading to speciation* (particularly 'mechanisms of evolution', 'the origin of species', and 'patterns of evolution'). It has also been used for non-genetics majors at university.
 
 [*back to the top*](index.md#what-whale-is-that)  
 
 ## Identifying whale meat with DNA  
-In response to the near-commercial extinction of many of the 'great whale' species, a moratorium on commercial whaling came into place in 1986. However, some countries continued to capture whales as 'bycatch' in fishing gear or through scientific whaling schemes. In addition, there have been occasional instances of illegal international trade of whale meat, where it has ended up in [high end restaurants!](https://www.wired.com/2010/04/whale-meat-bust/). 
+In response to the near-commercial extinction of many of the 'great whale' species, a moratorium on commercial whaling came into place in 1986. However, some countries continued to capture whales as 'bycatch' in fishing gear or through scientific whaling schemes. In addition, there have been occasional instances of illegal international trade of whale meat, where it has ended up in [high end restaurants!](https://www.wired.com/2010/04/whale-meat-bust/).  
 
 ### Using BLAST
 ### Using 'Witness for the Whales'
