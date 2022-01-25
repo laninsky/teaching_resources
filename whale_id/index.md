@@ -7,7 +7,7 @@
 - [Acknowledgements](index.md#acknowledgements)  
 
 ## Why do we need to identify whale samples with DNA?
-Cetaceans (whales and dolphins) are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart based on morphology - their appearance - because natural selection and drift have acted to make some very different looking critters. Here's just a few of the ~90 cetacean species!
+Cetaceans (whales and dolphins) are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart based on morphology (a fancy word for "their appearance") because natural selection and drift have acted to make some very different looking critters. Here's just a few of the ~90 cetacean species!
 <a title="LittleJerry, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Cetacea.jpg"><img width="512" alt="The Cetacea" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Cetacea.jpg/512px-The_Cetacea.jpg"></a>
 
 So given they look so different, why would we need to identify species with DNA?  
