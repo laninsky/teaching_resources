@@ -61,10 +61,14 @@ In this exercise, we'll pick up just after the samples have been amplified and s
 1. [BLAST](index.md#using-blast), which relies on comparing the similarity between our sequences and whale and dolphin sequences in a database; and 
 2. [Witness for the whales](index.md#using-witness-for-the-whales), a phylogenetic (tree-based) method that uses expertly-curated sequences.
 
-The samples we'll be identifying are [here](whale_meat_sample_sequences.md), and the instructions for how to figure out what species they are from using the two methods are below. If you get completely done with these initial exercises, there are some additional sequences [here](additional_samples.md). Keep a pen and paper handy, or a file open on your device, so you can write down your species IDs!
+The samples we'll be identifying are [here](whale_meat_sample_sequences.md) (open it in a new tab so you can flick back and forth with the instructions), and the instructions for how to figure out what species they are from using the two methods are below. If you get completely done with the initial exercise, there are some additional sequences [here](additional_samples.md). Keep a pen and paper handy, or a file open on your device, so you can write down your species IDs!
 
 ### Using BLAST
-
+1. Head to the website https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome (copy and paste the link so you don't have to type it out manually!)
+2. Copy the first sequence from our [whale meat samples](whale_meat_sample_sequences.md)
+3. Paste this into the BLAST data entry window, and then click ‘BLAST’ at the bottom of the window
+![shows blast window with a red arrow pointing to where to paste the sequence](blast_window.png)
+4. 
 [*back to the top*](index.md#what-whale-is-that)  
 
 ### Using 'Witness for the Whales'
