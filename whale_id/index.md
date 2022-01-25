@@ -15,7 +15,7 @@ Given they look so different, why would we ever need to identify species with DN
 Well...how about these whales and dolphins? Can you tell them apart?  
 ![images of whale meat](whale_meat.png)
 
-Sometimes we can get samples that no longer look like the original dolphin or whale. This might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (this happens quite a bit in Aotearoa New Zealand!). Sometimes it might be because the animal has been cut up for food like in the whale meat example above. Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
+Sometimes we can get samples that no longer look like the original dolphin or whale. This might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (strandings happen quite a bit in Aotearoa New Zealand!). Sometimes it might be because the animal has been cut up for food like in the whale meat example above. Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
 
 Often, we use a kind of DNA called mitochondrial DNA, often known as mtDNA for short. More on that in the next section!
 
