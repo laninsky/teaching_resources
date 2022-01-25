@@ -95,8 +95,8 @@ We'll then hit the back button and select 'Mysticetes v4.3' as our database.
 
 [*back to the top*](index.md#what-whale-is-that)  
 
-## What whales were they?
-Have a peek [here](answer_key.md)
+## What whales were they and when does this approach not work so well?
+Have a peek [here](answer_key.md) to see what our samples were, and for a discussion of when it might not work out to use mtDNA to forensically identify species.
 
 [*back to the top*](index.md#what-whale-is-that) 
 
