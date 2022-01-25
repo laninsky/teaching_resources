@@ -7,15 +7,19 @@
 [When doesn't this approach work?](index.md#when-doesnt-this-approach-work)  
 
 ## Why do we need to identify whale samples with DNA?
-Whales are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart because natural selection and drift have acted to make some very different looking critters.
-
+Cetaceans (whales and dolphins) are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart based on morphology - their appearance - because natural selection and drift have acted to make some very different looking critters. Here's just a few of the ~90 cetacean species!
 <a title="LittleJerry, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:The_Cetacea.jpg"><img width="512" alt="The Cetacea" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Cetacea.jpg/512px-The_Cetacea.jpg"></a>
 
-So why would we need to identify species with DNA?
-Whale meat
+So given they look so different, why would we need to identify species with DNA?  
+
+Well...how about these whales and dolphins? Can you tell them apart?  
+![images of whale meat](whale_meat.png)
+
+Sometimes we can get samples that no longer look like the original dolphin or whale. Sometimes these might be because the animal has been dead for a while (e.g. strandings) and no longer looks like it did while alive (this happens quite a bit in Aotearoa New Zealand!). Sometimes it might be because the animal has been cut up for food. Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
+
+Often, we use a kind of DNA called mitochondrial DNA, often known as mtDNA for short. More on that in the next section!
 
 [*back to the top*](index.md#what-whale-is-that)  
-
 
 ## Why do we use mitochondrial DNA?
 What is mtDNA?  
