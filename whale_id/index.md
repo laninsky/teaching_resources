@@ -24,11 +24,11 @@ Multi-copy
 Haploid
 Maternally-inherited only
 
-![image of zooming into a cell and ending up at nucleotides](/teaching_resources/docs/assets/images/cells_nuclear_DNA.png)
+![image of zooming into a cell and ending up at nucleotides](/docs/assets/images/cells_nuclear_DNA.png)
 
-![Mitochondrial DNA is maternally inherited](/teaching_resources/docs/assets/images/maternally_inherited.png)
+![Mitochondrial DNA is maternally inherited](/docs/assets/images/maternally_inherited.png)
 
-![The proces of haplotyping mitochondrial DNA involves looking for differences when comparing the letters](/teaching_resources/docs/assets/images/haplotyping_mtDNA.png)
+![The proces of haplotyping mitochondrial DNA involves looking for differences when comparing the letters](/docs/assets/images/haplotyping_mtDNA.png)
 
 We use a specific locus - the control region - because it doesn't appear to be under as strong selection as elsewhere on the mtDNA. This means the mutations that occur are mostly neutral, which means they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up distinguishing different species.
 
