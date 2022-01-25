@@ -33,37 +33,18 @@ However, there are other kinds of DNA and one that is particularly handy for for
 The mtDNA hangs out inside mitochondria, the powerhouse of the cell. Some genes in the mitochondrial DNA encode for proteins. However, for our analyses we mostly use a specific locus - the control region - because it doesn't appear to be under as strong selection as the parts of the mtDNA that code for proteins.  
 ![Mitochondrial DNA is maternally inherited](maternally_inherited.png)
 
-Because these mutations are mostly neutral, they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up that can distinguish different maternal lineages (kind of like maternally-inherited surname).
-![mutation is the ultimate cause of genetic varaition](mutations.png)
+Why is this important? Well, we know that the ultimate origin of all genetic variation is mutation. One of the reasons we particularly like to work with mtDNA is that it has a higher mutation rate, which means it accumulates variation more quickly than nuclear DNA.
+![mutation is the ultimate cause of genetic variation](mutations.png)
 
-This means mutations 
-
-
-distinguishing different species.
-
-
-What is mtDNA?  
-Multi-copy  
-Haploid  
-Maternally-inherited only  
-
-
-
-
-
+But the control region is extra special. Because mutations in this locus are mostly neutral, they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up that can distinguish different maternal lineages (kind of like maternally-inherited surname). When we define certain stretches of DNA based on the mutations they hold, this is called 'haplotyping'.
 ![The proces of haplotyping mitochondrial DNA involves looking for differences when comparing the letters](haplotyping_mtDNA.png)
 
+Over time, processes like natural selection,bottlenecks and genetic drift mean we can even use the mtDNA to distinguish different species!
 
 
-Higher mutation rate
-
-[*back to the top*](index.md#what-whale-is-that)  
-
-## How do DNA differences between species arise?
-Mutation (source of variation), genetic drift/natural selection (fox etc
+Not only can the mtDNA distinguish different species, but it is also present in multiple copies per cell (because your cells have lots of mitochondria to power them, and each mitochondria has copies of mtDNA). Because there are lots of copies, it means that we are more likely to be able to successfully extract mtDNA and amplify the control region using PCR, even from samples that are degraded... like animals that have been decomposing on the beach for a while, or whale meat that has been canned, or a bleached bone that has been sitting at a whaling station for centuries.
 
 [*back to the top*](index.md#what-whale-is-that)  
-
 
 ## Things this exercise should teach
 This exercise touches on aspects of NCEA Level 2 and 3 Biology, including *2.5 Genetic variation and change (AS 91157)* (particularly 'sources of genetic variation' and 'genetic change') and *3.5 Demonstrate understanding of evolutionary processes leading to speciation* (particularly 'mechanisms of evolution', 'the origin of species', and 'patterns of evolution')
