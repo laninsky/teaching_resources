@@ -91,7 +91,7 @@ If we head to [the key](DNA_surveillance_database_species.pdf), we see that all 
 We'll then hit the back button and select 'Mysticetes v4.3' as our database.
 
 **Why do we have to do such a complicated dance compared with BLAST?** The “higher level” databases e.g. “All cetaceans” don’t always have all the species (because the program would run too slow) so that’s why we zoom into Mysticete and Odontocete databases – and sometimes zoom in even further!!!  
-6. On the next run-through, we find that our sample appears to be a fin whale. To find the closest relative in a phylogenetic tree, follow the line back from yoru sample of interest until you hit a perpendicular line. That perpendicular line will attach to the closest relative of your sample/species.
+6. On the next run-through, we find that our sample appears to be a fin whale. To find the closest relative in a phylogenetic tree, follow the line back from your sample of interest until you hit a perpendicular line. That perpendicular line will attach to the closest relative of your sample/species.
 ![phylogenetic tree focussed on fin whales](final_fin_whale.png)
 7. Nice work, you've identified your sample using a phylogenetic method. Although this might seem a bit more complicated, hopefully by the end of the exercise you might see why this can be a handy approach.
 
@@ -103,7 +103,7 @@ Have a peek [here](answer_key.md) to see what our samples were, and for a discus
 [*back to the top*](index.md#what-whale-is-that) 
 
 ## Acknowledgements
-This exercise was originally developed by [Prof. Scott Baker](https://mmi.oregonstate.edu/people/c-scott-baker). While Alana was based in Scott's lab for her PhD research, she has gradually tweaked the materials, but the images of the whale meat samples within the exercises and their DNA sequences are from Scott. Ngā mihi e hoa!  
+This exercise was originally developed by [Prof. Scott Baker](https://mmi.oregonstate.edu/people/c-scott-baker). During and after Alana was based in Scott's lab for her PhD research, she has gradually tweaked the materials, but the images of the whale meat samples within the exercises and their DNA sequences are from Scott. Ngā mihi e hoa!  
 
 All images on this page developed by Alana, with the exception of the collage of cetacean species (LittleJerry, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:The_Cetacea.jpg)
 
