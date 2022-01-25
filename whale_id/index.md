@@ -20,15 +20,15 @@ Multi-copy
 Haploid
 Maternally-inherited only
 
-![with nuclear DNA you get one copy from your mum and one copy from your dad](/docs/assets/images/nuclear_DNA.png)
+![with nuclear DNA you get one copy from your mum and one copy from your dad](nuclear_DNA.png)
 
-![everyone has the same mitochondrial DNA as their mum](/docs/assets/images/mtDNA.png)
+![everyone has the same mitochondrial DNA as their mum](mtDNA.png)
 
-![zooming into a cell and ending up at nucleotides](/docs/assets/images/cells_nuclear_DNA.png)
+![zooming into a cell and ending up at nucleotides](cells_nuclear_DNA.png)
 
-![Mitochondrial DNA is maternally inherited](/docs/assets/images/maternally_inherited.png)
+![Mitochondrial DNA is maternally inherited](maternally_inherited.png)
 
-![The proces of haplotyping mitochondrial DNA involves looking for differences when comparing the letters](/docs/assets/images/haplotyping_mtDNA.png)
+![The proces of haplotyping mitochondrial DNA involves looking for differences when comparing the letters](haplotyping_mtDNA.png)
 
 We use a specific locus - the control region - because it doesn't appear to be under as strong selection as elsewhere on the mtDNA. This means the mutations that occur are mostly neutral, which means they don't get removed from the population because of purifying/negative selection. Over time, this means that a bunch of mutations can build up distinguishing different species.
 
@@ -39,7 +39,7 @@ Higher mutation rate
 ## How do DNA differences between species arise?
 Mutation (source of variation), genetic drift/natural selection (fox etc
 
-![mutation is the ultimate cause of genetic varaition](/docs/assets/images/mutations.png)
+![mutation is the ultimate cause of genetic varaition](mutations.png)
 
 [*back to the top*](index.md#what-whale-is-that)  
 
