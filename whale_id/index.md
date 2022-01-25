@@ -21,8 +21,6 @@ Sometimes we can get samples that no longer look like the original dolphin or wh
    
   
 Sometimes it is because we recover bones from old whaling stations and we don't know what species they belong to anymore. In these cases, sometimes using DNA can help us figure out what species we have.  
-<p><a href="https://commons.wikimedia.org/wiki/File:Barbas_de_ballena.jpg#/media/File:Barbas_de_ballena.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Barbas_de_ballena.jpg/1200px-Barbas_de_ballena.jpg" alt="Barbas de ballena.jpg"></a>
-  
   
 Often, we use a kind of DNA called mitochondrial DNA, often known as mtDNA for short. More on that in the next section!
 
@@ -112,6 +110,6 @@ Have a peek [here](answer_key.md) to see what our samples were, and for a discus
 ## Acknowledgements
 This exercise was originally developed by [Prof. Scott Baker](https://mmi.oregonstate.edu/people/c-scott-baker). During, and after, Alana was based in Scott's lab for her PhD research, she has gradually tweaked the materials, but the images of the whale meat samples within the exercises and their DNA sequences are from Scott. Ngā mihi e hoa!  
 
-All images on this page developed by Alana, with the exception of the following from wikimedia: collage of cetacean species (LittleJerry, CC BY-SA 4.0), the whale strandings image (Alfonsi et al, CC BY 4.0), whale bone (LBM1948, CC BY-SA 4.0).
+All images on this page developed by Alana, with the exception of the following from wikimedia: collage of cetacean species (LittleJerry, CC BY-SA 4.0), the whale strandings image (Alfonsi et al, CC BY 4.0), and whale bone (LBM1948, CC BY-SA 4.0).
 
 [*back to the top*](index.md#what-whale-is-that) 
