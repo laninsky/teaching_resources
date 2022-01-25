@@ -1,6 +1,6 @@
 # What whale is that?
 - [Why do we need to identify whale samples with DNA?](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
-- [Why do we use mitochondrial DNA?](index.md#why-do-we-use-mitochondrial-DNA)  
+- [Why do we use mitochondrial DNA?](index.md#why-do-we-use-mitochondrial-dna)
 - [Things this exercise should teach](index.md#things-this-exercise-should-teach)    
 - [I don't want to read all of this - let me go straight to the exercise!](index.md#identifying-whale-meat-with-dna)  
 - [What whales were they and when does this approach not work so well?](index.md#what-whales-were-they-and-when-does-this-approach-not-work-so-well)  
