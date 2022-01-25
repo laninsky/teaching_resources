@@ -1,10 +1,10 @@
 # What whale is that?
-[Why do we need to identify whale samples with DNA?](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
-[Why do we use mitochondrial DNA?](index.md#why-do-we-use-mitochondrial-DNA)  
-[Things this exercise should teach](index.md#things-this-exercise-should-teach)    
-[I don't want to read all of this - let me go straight to the exercise!](index.md#identifying-whale-meat-with-dna)  
-[When doesn't using mtDNA work?](index.md#when-doesnt-using-mtdna-work)  
-[Acknowledgements](index.md#acknowledgements)  
+- [Why do we need to identify whale samples with DNA?](index.md#why-do-we-need-to-identify-whale-samples-with-DNA)  
+- [Why do we use mitochondrial DNA?](index.md#why-do-we-use-mitochondrial-DNA)  
+- [Things this exercise should teach](index.md#things-this-exercise-should-teach)    
+- [I don't want to read all of this - let me go straight to the exercise!](index.md#identifying-whale-meat-with-dna)  
+- [When doesn't using mtDNA work?](index.md#when-doesnt-using-mtdna-work)  
+- [Acknowledgements](index.md#acknowledgements)  
 
 ## Why do we need to identify whale samples with DNA?
 Cetaceans (whales and dolphins) are super diverse and (mostly - with the exception of some dolphin and beaked whale species) easy to tell apart based on morphology - their appearance - because natural selection and drift have acted to make some very different looking critters. Here's just a few of the ~90 cetacean species!
