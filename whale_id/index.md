@@ -3,7 +3,7 @@
 - [Why do we use mitochondrial DNA?](index.md#why-do-we-use-mitochondrial-DNA)  
 - [Things this exercise should teach](index.md#things-this-exercise-should-teach)    
 - [I don't want to read all of this - let me go straight to the exercise!](index.md#identifying-whale-meat-with-dna)  
-- [When doesn't using mtDNA work?](index.md#when-doesnt-using-mtdna-work)  
+- [What whales were they and when does this approach not work so well?](index.md#what-whales-were-they-and-when-does-this-approach-not-work-so-well)  
 - [Acknowledgements](index.md#acknowledgements)  
 
 ## Why do we need to identify whale samples with DNA?
@@ -92,13 +92,6 @@ We'll then hit the back button and select 'Mysticetes v4.3' as our database.
 6. On the next run-through, we find that our sample appears to be a fin whale. To find the closest relative in a phylogenetic tree, follow the line back from yoru sample of interest until you hit a perpendicular line. That perpendicular line will attach to the closest relative of your sample/species.
 ![phylogenetic tree focussed on fin whales](final_fin_whale.png)
 7. Nice work, you've identified your sample using a phylogenetic method. Although this might seem a bit more complicated, hopefully by the end of the exercise you might see why this can be a handy approach.
-
-[*back to the top*](index.md#what-whale-is-that)  
-
-## When doesn't using mtDNA work?
-Fragment too short  
-Species can't be distinguished  
-New species/variation  
 
 [*back to the top*](index.md#what-whale-is-that)  
 
