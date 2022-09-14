@@ -75,7 +75,7 @@ The samples we'll be identifying are [here](whale_meat_sample_sequences.md) (ope
 ![shows blast window with a red arrow pointing to where to paste the sequence](blast_window.png)
 4. After it spits back the results page, scroll down to the 'Sequences producing significant alignments' section to see the species BLAST has found to have the greatest overall similarity to our sample. 
 ![shows blast window with a red arrow pointing to top result](blast_match.png)
-5. If you want to find the common name, check out [this key](DNA_surveillance_database_species.pdf)
+5. If you want to find the common name, check out [this key](species_list.pdf)
 ![arrow pointing to fin whale](common_name.png)
 6. You’ve identified your whale meat sample species ID, nice work!!!!
 
